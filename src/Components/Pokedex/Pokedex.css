@@ -2,8 +2,11 @@
     display: flex;
     flex-direction: column;
     width: 100px;
+    
+    
 }
-#pokedex-heading{
+#pokedex-height{
     margin: 0 auto;
+    letter-spacing: 7px;
     
 }
